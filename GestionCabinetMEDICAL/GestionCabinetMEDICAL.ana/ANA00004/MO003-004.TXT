@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+MEDECIN		TAR	205	nouvelle taille enregistrement : 205
+MEDECIN	Spécialité_Medecin	TAI-	25	la rubrique Spécialité_Medecin a comme nouvelle taille 26 au lieu de 51
+Infermier		TAR	197	nouvelle taille enregistrement : 197
+Infermier	Spécialité_Infermier	TAI-	25	la rubrique Spécialité_Infermier a comme nouvelle taille 26 au lieu de 51

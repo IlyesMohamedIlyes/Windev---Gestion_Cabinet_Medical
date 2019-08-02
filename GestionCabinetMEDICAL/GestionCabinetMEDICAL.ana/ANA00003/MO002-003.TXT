@@ -1,0 +1,7 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+MEDECIN		TAR	230	nouvelle taille enregistrement : 230
+MEDECIN	IDInfermier	RUB+		IDInfermier est une nouvelle clé
+MEDECIN	Spécialité_Medecin	RUB+		Spécialité_Medecin est une nouvelle rubrique
+Infermier		TAR	222	nouvelle taille enregistrement : 222
+Infermier	Spécialité_Infermier	RUB+		Spécialité_Infermier est une nouvelle rubrique
+Infermier		NWL	Infermier (IDInfermier) et MEDECIN (IDInfermier)	Nouvelle liaison entre les fichiers Infermier (IDInfermier) et MEDECIN (IDInfermier)

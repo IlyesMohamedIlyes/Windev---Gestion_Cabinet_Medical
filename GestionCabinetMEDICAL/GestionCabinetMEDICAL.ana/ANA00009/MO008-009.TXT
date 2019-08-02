@@ -1,0 +1,5 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+		FIC-	Cabinet	Fichier supprimé Cabinet
+Infermier		DEL	Infermier (IDInfermier) et Cabinet (IDInfermier)	Liaison supprimée entre les fichiers Infermier (IDInfermier) et Cabinet (IDInfermier)
+Cabinet		DEL	Cabinet (IDCabinet) et MEDECIN (IDCabinet)	Liaison supprimée entre les fichiers Cabinet (IDCabinet) et MEDECIN (IDCabinet)
+Spécialité		DEL	Spécialité (IDSpécialité) et Cabinet (IDSpécialité)	Liaison supprimée entre les fichiers Spécialité (IDSpécialité) et Cabinet (IDSpécialité)

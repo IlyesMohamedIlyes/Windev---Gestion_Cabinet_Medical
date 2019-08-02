@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+MEDECIN		TAR	287	nouvelle taille enregistrement : 287
+MEDECIN	Adresse_Medecin	TAI+	30	la rubrique Adresse_Medecin a comme nouvelle taille 81 au lieu de 51
+Infermier		TAR	278	nouvelle taille enregistrement : 278
+Infermier	adresse_Infermier	TAI+	30	la rubrique adresse_Infermier a comme nouvelle taille 81 au lieu de 51

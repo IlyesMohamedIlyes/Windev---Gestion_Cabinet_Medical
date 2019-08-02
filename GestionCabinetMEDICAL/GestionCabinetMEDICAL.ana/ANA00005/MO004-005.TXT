@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+MEDECIN		TAR	257	nouvelle taille enregistrement : 257
+MEDECIN	Adresse_Medecin	RUB+		Adresse_Medecin est une nouvelle rubrique
+Infermier		TAR	248	nouvelle taille enregistrement : 248
+Infermier	adresse_Infermier	RUB+		adresse_Infermier est une nouvelle rubrique

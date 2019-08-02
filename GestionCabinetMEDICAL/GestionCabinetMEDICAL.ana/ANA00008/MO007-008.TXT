@@ -1,0 +1,15 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+MEDECIN		TAR	266	nouvelle taille enregistrement : 266
+MEDECIN	IDSpécialité	RUB+		IDSpécialité est une nouvelle clé
+MEDECIN	IDCabinet	RUB+		IDCabinet est une nouvelle clé
+MEDECIN	Spécialité_Medecin	RUB-		la rubrique Spécialité_Medecin est supprimée
+Infermier		TAR	253	nouvelle taille enregistrement : 253
+Infermier	IDSpécialité	RUB+		IDSpécialité est une nouvelle clé
+Infermier	Spécialité_Infermier	RUB-		la rubrique Spécialité_Infermier est supprimée
+Spécialité		NFI		nouveau fichier
+Cabinet		NFI		nouveau fichier
+Spécialité		NWL	Spécialité (IDSpécialité) et Infermier (IDSpécialité)	Nouvelle liaison entre les fichiers Spécialité (IDSpécialité) et Infermier (IDSpécialité)
+Spécialité		NWL	Spécialité (IDSpécialité) et MEDECIN (IDSpécialité)	Nouvelle liaison entre les fichiers Spécialité (IDSpécialité) et MEDECIN (IDSpécialité)
+Infermier		NWL	Infermier (IDInfermier) et Cabinet (IDInfermier)	Nouvelle liaison entre les fichiers Infermier (IDInfermier) et Cabinet (IDInfermier)
+Cabinet		NWL	Cabinet (IDCabinet) et MEDECIN (IDCabinet)	Nouvelle liaison entre les fichiers Cabinet (IDCabinet) et MEDECIN (IDCabinet)
+Spécialité		NWL	Spécialité (IDSpécialité) et Cabinet (IDSpécialité)	Nouvelle liaison entre les fichiers Spécialité (IDSpécialité) et Cabinet (IDSpécialité)

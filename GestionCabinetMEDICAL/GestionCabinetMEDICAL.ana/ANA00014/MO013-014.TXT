@@ -1,0 +1,2 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Infermier		DEL	Infermier (IDInfermier) et MEDECIN (IDInfermier)	Liaison supprimée entre les fichiers Infermier (IDInfermier) et MEDECIN (IDInfermier)

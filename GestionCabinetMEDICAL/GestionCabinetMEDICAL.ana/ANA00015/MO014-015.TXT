@@ -1,0 +1,9 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+VISITE		TAR	177	nouvelle taille enregistrement : 177
+VISITE	RaisonVisite	TAI+	70	la rubrique RaisonVisite a comme nouvelle taille 121 au lieu de 51
+VISITE	Traitement	RUB-		la rubrique Traitement est supprimée
+Médicament		NFI		nouveau fichier
+VISITE_Médicament		NFI		nouveau fichier
+VISITE_Médicament		FIC-	Administrateur	Fichier supprimé Administrateur
+Médicament		NWL	Médicament (IDMédicament) et VISITE_Médicament (IDMédicament)	Nouvelle liaison entre les fichiers Médicament (IDMédicament) et VISITE_Médicament (IDMédicament)
+VISITE		NWL	VISITE (IDVISITE) et VISITE_Médicament (IDVISITE)	Nouvelle liaison entre les fichiers VISITE (IDVISITE) et VISITE_Médicament (IDVISITE)

@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+VISITE		TAR	209	nouvelle taille enregistrement : 209
+VISITE	RaisonVisite	RUB+		RaisonVisite est une nouvelle rubrique
+VISITE	Traitement	RUB+		Traitement est une nouvelle rubrique

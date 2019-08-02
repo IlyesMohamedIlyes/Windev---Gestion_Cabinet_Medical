@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+MEDECIN		TAR	262	nouvelle taille enregistrement : 262
+MEDECIN	IDCabinet	RUB-		la clé IDCabinet est supprimée
